@@ -1,4 +1,5 @@
 # 🪣 FluidTank API
+[![](https://jitpack.io/v/jgomez97/FluidTank-API.svg)](https://jitpack.io/#jgomez97/FluidTank-API)
 
 Public API for the **FluidTank** premium Spigot plugin.  
 This API allows third-party plugins to safely interact with Fluid Tanks without accessing internal or NMS code.
