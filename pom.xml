@@ -7,7 +7,7 @@
 
     <groupId>com.armandozetaxx</groupId>
     <artifactId>fluidtank-api</artifactId>
-    <version>2.5</version>
+    <version>v2.5</version>
     <packaging>jar</packaging>
 
     <name>FluidTank API</name>
