@@ -45,7 +45,7 @@ This API allows third-party plugins to safely interact with Fluid Tanks without 
     <dependency>
 	    <groupId>com.github.jgomez97</groupId>
 	    <artifactId>FluidTank-API</artifactId>
-	    <version>v2.5.0</version>
+	    <version>v2.5.1</version>
 	</dependency>
 </dependencies>
 ```
