@@ -20,7 +20,6 @@
     </properties>
 
     <dependencies>
-        <!-- Spigot API SOLO PARA TIPOS -->
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
@@ -28,5 +27,4 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
-
 </project>
