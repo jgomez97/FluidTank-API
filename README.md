@@ -106,7 +106,7 @@ FluidTankFluid fluid = api.getFluidTankFluid(tank);
 ItemStack updatedTank = api.fillFluidTank(
         tank,
         FluidTankFluid.WATER,
-        level + 1
+        level
 );
 ```
 
@@ -114,8 +114,7 @@ ItemStack updatedTank = api.fillFluidTank(
 ```java
 ItemStack updatedTank = api.pourFluidTank(
         tank,
-        FluidTankFluid.WATER,
-        level + 1
+        level
 );
 ```
 
