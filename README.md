@@ -156,7 +156,7 @@ All rights reserved.
 
 This API is provided for plugin integration purposes only.
 
-## Support & Links
+## 💬 Support & Links
 	•	🐞 Issues: GitHub Issues  
 	•	💡 Suggestions: Discord https://discord.gg/UfY45TSmbJ  
 	•	🧪 Plugin Page: SpigotMC https://www.spigotmc.org/resources/fluid-tank-1-8-8-1-21-11.93613/  
