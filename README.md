@@ -101,14 +101,24 @@ int size = api.getFluidTankSize(tank);
 FluidTankFluid fluid = api.getFluidTankFluid(tank);
 ```
 
-### Update Tank Content
+### Fill Tank
 ```java
-ItemStack updatedTank = api.updateFluidTank(
+ItemStack updatedTank = api.fillFluidTank(
         tank,
         FluidTankFluid.WATER,
         level + 1
 );
 ```
+
+### Pour Tank
+```java
+ItemStack updatedTank = api.pourFluidTank(
+        tank,
+        FluidTankFluid.WATER,
+        level + 1
+);
+```
+
 ## 🧪 Supported Fluids
 ```text
 NONE
