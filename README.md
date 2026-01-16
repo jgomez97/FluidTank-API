@@ -1,4 +1,4 @@
-# 🧪 FluidTank API
+# 🪣 FluidTank API
 
 Public API for the **FluidTank** premium Spigot plugin.  
 This API allows third-party plugins to safely interact with Fluid Tanks without accessing internal or NMS code.
